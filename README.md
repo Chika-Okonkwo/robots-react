@@ -2,8 +2,6 @@
 
 This is a simple react project demonstrating the basic principles of react. [Demo link](https://chika-okonkwo.github.io/robots-react/)
 
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
